@@ -1,0 +1,17 @@
+﻿body {
+    font-size:12px;
+    font-family:Arial,Calibri;
+}
+
+#Grid {
+border:2px;
+   color:white;
+
+}
+
+
+#Grid tr {
+   background-color:#5087a7;
+   text-align:center;
+   
+}
