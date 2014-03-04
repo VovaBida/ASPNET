@@ -26,6 +26,17 @@ namespace firstgit.DatabaseCore
         private GridView _grid;
 
         /// <summary>
+        /// Data table containing extracted data.
+        /// </summary>
+        public DataTable Table
+        {
+            get
+            {
+                return this._dataTable;
+            }
+        }
+
+        /// <summary>
         /// ctor.
         /// </summary>
         /// <param name="connection">SQL server connection the data will be extracted from.</param>
