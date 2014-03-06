@@ -1,0 +1,17 @@
+G:\Visual Studio 2010\Projects\LMV\LMV1\LMV1\bin\Debug\LMV1.exe
+G:\Visual Studio 2010\Projects\LMV\LMV1\LMV1\bin\Debug\LMV1.pdb
+G:\Visual Studio 2010\Projects\LMV\LMV1\LMV1\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\Visual Studio 2010\Projects\LMV\LMV1\LMV1\obj\x86\Debug\LMV1.Form1.resources
+G:\Visual Studio 2010\Projects\LMV\LMV1\LMV1\obj\x86\Debug\LMV1.Properties.Resources.resources
+G:\Visual Studio 2010\Projects\LMV\LMV1\LMV1\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\Visual Studio 2010\Projects\LMV\LMV1\LMV1\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\Visual Studio 2010\Projects\LMV\LMV1\LMV1\obj\x86\Debug\LMV1.exe
+G:\Visual Studio 2010\Projects\LMV\LMV1\LMV1\obj\x86\Debug\LMV1.pdb
+C:\Users\admin\Source\Repos\ASPNET\LMV1,7\LMV1\obj\x86\Debug\LMV1.exe
+C:\Users\admin\Source\Repos\ASPNET\LMV1,7\LMV1\obj\x86\Debug\LMV1.pdb
+C:\Users\admin\Source\Repos\ASPNET\LMV1,7\LMV1\bin\Debug\LMV1.exe
+C:\Users\admin\Source\Repos\ASPNET\LMV1,7\LMV1\bin\Debug\LMV1.pdb
+C:\Users\admin\Source\Repos\ASPNET\LMV1,7\LMV1\obj\x86\Debug\LMV1.csprojResolveAssemblyReference.cache
+C:\Users\admin\Source\Repos\ASPNET\LMV1,7\LMV1\obj\x86\Debug\LMV1.Form1.resources
+C:\Users\admin\Source\Repos\ASPNET\LMV1,7\LMV1\obj\x86\Debug\LMV1.Properties.Resources.resources
+C:\Users\admin\Source\Repos\ASPNET\LMV1,7\LMV1\obj\x86\Debug\LMV1.csproj.GenerateResource.Cache
