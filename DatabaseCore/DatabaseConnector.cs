@@ -14,16 +14,22 @@ namespace firstgit.DatabaseCore
         /// SQL Server connection.
         /// </summary>
         private SqlConnection _connection;
+            
+            
+                 
 
         /// <summary>
         /// Data table containing extracted data.
         /// </summary>
         private DataTable _dataTable;
+       
+
 
         /// <summary>
         /// Target GridView
         /// </summary>
         private GridView _grid;
+        
 
         /// <summary>
         /// ctor.
@@ -50,6 +56,8 @@ namespace firstgit.DatabaseCore
             dataAdapter.Fill(this._dataTable);
             _connection.Close();
         }
+
+
 
         /// <summary>
         /// Replaces data on SQL Server with data in provided DataTable object.
